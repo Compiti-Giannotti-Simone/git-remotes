@@ -3,3 +3,8 @@
     font-size: 2em;
     color: #ff0000;
 }
+
+.footer {
+    position: fixed;
+    bottom: 0;
+}
